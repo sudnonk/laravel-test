@@ -2,7 +2,6 @@
     "name": "sudnonk/laravel-test",
     "type": "project",
     "require": {
-        "laravel/laravel": "^5.7",
         "laravel/installer": "^2.0"
     },
     "license": "MIT",
