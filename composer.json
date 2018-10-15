@@ -1,0 +1,14 @@
+{
+    "name": "sudnonk/laravel-test",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sudnonk",
+            "email": "sudnonk12@yahoo.co.jp"
+        }
+    ]
+}
